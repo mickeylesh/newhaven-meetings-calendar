@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Haven CT Meeting Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Haven CT Government Meetings
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Health & Human Services Committee
+DTSTART;TZID=America/New_York:20260528T190000
+DTEND;TZID=America/New_York:20260528T210000
+DTSTAMP:20260519T185953Z
+UID:e56a48fa698c53ae@newhaven-ct.legistar.com
+DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
+LOCATION:Board of Alders Chamber
+URL:https://newhaven-ct.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joint Community Development/Human Services Committee
+DTSTART;TZID=America/New_York:20260528T180000
+DTEND;TZID=America/New_York:20260528T200000
+DTSTAMP:20260519T185953Z
+UID:d59bcc71b975788b@newhaven-ct.legistar.com
+DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
+LOCATION:Board of Alders Chamber
+URL:https://newhaven-ct.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Education Committee
+DTSTART;TZID=America/New_York:20260527T180000
+DTEND;TZID=America/New_York:20260527T200000
+DTSTAMP:20260519T185953Z
+UID:4ff88859fed14759@newhaven-ct.legistar.com
+DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
+LOCATION:Aldermanic Chambers
+URL:https://newhaven-ct.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aldermanic Affairs Committee
+DTSTART;TZID=America/New_York:20260521T180000
+DTEND;TZID=America/New_York:20260521T200000
+DTSTAMP:20260519T185953Z
+UID:ddae156d210ff941@newhaven-ct.legistar.com
+DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
+LOCATION:Aldermanic Chambers
+URL:https://newhaven-ct.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joint Community Development/Human Services Committee
+DTSTART;TZID=America/New_York:20260520T180000
+DTEND;TZID=America/New_York:20260520T200000
+DTSTAMP:20260519T185953Z
+UID:2dae99e982bdaabe@newhaven-ct.legistar.com
+DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
+LOCATION:Board of Alders Chamber
+URL:https://newhaven-ct.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Public Safety Committee
+DTSTART;TZID=America/New_York:20260519T180000
+DTEND;TZID=America/New_York:20260519T200000
+DTSTAMP:20260519T185953Z
+UID:51a75fcba363a68f@newhaven-ct.legistar.com
+DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
+LOCATION:Board of Alders Chamber
+URL:https://newhaven-ct.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★ Board of Alders
+DTSTART;TZID=America/New_York:20260518T190000
+DTEND;TZID=America/New_York:20260518T210000
+DTSTAMP:20260519T185953Z
+UID:cd6aa3729e0397e0@newhaven-ct.legistar.com
+DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
+LOCATION:Board of Alders Chamber  - 165 Church Street\, New Haven - 2nd Fl
+ oor
+URL:https://newhaven-ct.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finance Committee
+DTSTART;TZID=America/New_York:20260514T180000
+DTEND;TZID=America/New_York:20260514T200000
+DTSTAMP:20260519T185953Z
+UID:055d217e093a887b@newhaven-ct.legistar.com
+DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
+LOCATION:Aldermanic Chambers
+URL:https://newhaven-ct.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tax Abatement Committee
+DTSTART;TZID=America/New_York:20260513T190000
+DTEND;TZID=America/New_York:20260513T210000
+DTSTAMP:20260519T185953Z
+UID:14accea102d83b9a@newhaven-ct.legistar.com
+DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
+LOCATION:Aldermanic Chambers
+URL:https://newhaven-ct.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Legislation Committee
+DTSTART;TZID=America/New_York:20260512T180000
+DTEND;TZID=America/New_York:20260512T200000
+DTSTAMP:20260519T185953Z
+UID:66c2996acba23e2a@newhaven-ct.legistar.com
+DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
+LOCATION:Aldermanic Chambers
+URL:https://newhaven-ct.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black and Hispanic Caucus
+DTSTART;TZID=America/New_York:20260512T180000
+DTEND;TZID=America/New_York:20260512T200000
+DTSTAMP:20260519T185953Z
+UID:be317edd91d31f57@newhaven-ct.legistar.com
+DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
+LOCATION:Board of Alders Chamber 165 Church Street New Haven CT 06510
+URL:https://newhaven-ct.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finance Committee
+DTSTART;TZID=America/New_York:20260511T180000
+DTEND;TZID=America/New_York:20260511T200000
+DTSTAMP:20260519T185953Z
+UID:4f1ac6bbb0decafd@newhaven-ct.legistar.com
+DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
+LOCATION:Aldermanic Chambers
+URL:https://newhaven-ct.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:City Services and Environmental Policy
+DTSTART;TZID=America/New_York:20260507T180000
+DTEND;TZID=America/New_York:20260507T200000
+DTSTAMP:20260519T185953Z
+UID:3d93067dc3c005f9@newhaven-ct.legistar.com
+DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
+LOCATION:Aldermanic Chamber
+URL:https://newhaven-ct.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Youth Committee
+DTSTART;TZID=America/New_York:20260506T180000
+DTEND;TZID=America/New_York:20260506T200000
+DTSTAMP:20260519T185953Z
+UID:371e0d1b2cbdc3e2@newhaven-ct.legistar.com
+DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
+LOCATION:Board of Alders Chamber
+URL:https://newhaven-ct.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Legislation Committee
+DTSTART;TZID=America/New_York:20260505T180000
+DTEND;TZID=America/New_York:20260505T200000
+DTSTAMP:20260519T185953Z
+UID:5e08ef88f15fb094@newhaven-ct.legistar.com
+DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
+LOCATION:Aldermanic Chambers
+URL:https://newhaven-ct.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★ Board of Alders
+DTSTART;TZID=America/New_York:20260504T190000
+DTEND;TZID=America/New_York:20260504T210000
+DTSTAMP:20260519T185953Z
+UID:f3e7ded5f41ca499@newhaven-ct.legistar.com
+DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
+LOCATION:Board of Alders Chamber  - 165 Church Street\, New Haven - 2nd Fl
+ oor
+URL:https://newhaven-ct.legistar.com/Calendar.aspx
+END:VEVENT
+END:VCALENDAR
