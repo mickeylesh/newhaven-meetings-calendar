@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:Legislation Committee
 DTSTART;TZID=America/New_York:20260630T180000
 DTEND;TZID=America/New_York:20260630T200000
-DTSTAMP:20260621T130313Z
+DTSTAMP:20260622T154911Z
 UID:fd783406225da4bb@newhaven-ct.legistar.com
 DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
 LOCATION:Aldermanic Chambers
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Education Committee
 DTSTART;TZID=America/New_York:20260624T180000
 DTEND;TZID=America/New_York:20260624T200000
-DTSTAMP:20260621T130313Z
+DTSTAMP:20260622T154911Z
 UID:e783acd8c58d1fde@newhaven-ct.legistar.com
 DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
 LOCATION:Aldermanic Chambers
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Tax Abatement Committee
 DTSTART;TZID=America/New_York:20260623T190000
 DTEND;TZID=America/New_York:20260623T210000
-DTSTAMP:20260621T130313Z
+DTSTAMP:20260622T154911Z
 UID:717387b603523172@newhaven-ct.legistar.com
 DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
 LOCATION:Aldermanic Chambers
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:Joint Community Development/Tax Abatement
 DTSTART;TZID=America/New_York:20260623T180000
 DTEND;TZID=America/New_York:20260623T200000
-DTSTAMP:20260621T130313Z
+DTSTAMP:20260622T154911Z
 UID:85ab39046426c6ef@newhaven-ct.legistar.com
 DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
 LOCATION:Board of Alders Chamber
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Community Development Committee
 DTSTART;TZID=America/New_York:20260617T180000
 DTEND;TZID=America/New_York:20260617T200000
-DTSTAMP:20260621T130313Z
+DTSTAMP:20260622T154911Z
 UID:f1877af464b88cae@newhaven-ct.legistar.com
 DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
 LOCATION:Board of Alders Chamber
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Public Safety Committee
 DTSTART;TZID=America/New_York:20260616T180000
 DTEND;TZID=America/New_York:20260616T200000
-DTSTAMP:20260621T130313Z
+DTSTAMP:20260622T154911Z
 UID:d965302ec2bee715@newhaven-ct.legistar.com
 DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
 LOCATION:Board of Alders Chamber
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:City Services and Environmental Policy
 DTSTART;TZID=America/New_York:20260604T180000
 DTEND;TZID=America/New_York:20260604T200000
-DTSTAMP:20260621T130313Z
+DTSTAMP:20260622T154911Z
 UID:a071a8e71c16c973@newhaven-ct.legistar.com
 DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
 LOCATION:Aldermanic Chamber
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:★ Board of Alders
 DTSTART;TZID=America/New_York:20260601T190000
 DTEND;TZID=America/New_York:20260601T210000
-DTSTAMP:20260621T130313Z
+DTSTAMP:20260622T154911Z
 UID:7e38728a74608885@newhaven-ct.legistar.com
 DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
 LOCATION:Board of Alders Chamber  - 165 Church Street\, New Haven - 2nd Fl
