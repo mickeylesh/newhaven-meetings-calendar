@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:Community Development Committee
 DTSTART;TZID=America/New_York:20260715T180000
 DTEND;TZID=America/New_York:20260715T200000
-DTSTAMP:20260702T125416Z
+DTSTAMP:20260703T125444Z
 UID:613a76929cf026ea@newhaven-ct.legistar.com
 DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
 LOCATION:Board of Alders Chamber
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:City Services and Environmental Policy
 DTSTART;TZID=America/New_York:20260702T180000
 DTEND;TZID=America/New_York:20260702T200000
-DTSTAMP:20260702T125416Z
+DTSTAMP:20260703T125444Z
 UID:e961eff38b0618e3@newhaven-ct.legistar.com
 DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
 LOCATION:Aldermanic Chamber
