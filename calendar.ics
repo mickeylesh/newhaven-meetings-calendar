@@ -26,17 +26,28 @@ BEGIN:VEVENT
 SUMMARY:Community Development Committee
 DTSTART;TZID=America/New_York:20260715T180000
 DTEND;TZID=America/New_York:20260715T200000
-DTSTAMP:20260703T125444Z
+DTSTAMP:20260704T120415Z
 UID:613a76929cf026ea@newhaven-ct.legistar.com
 DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
 LOCATION:Board of Alders Chamber
 URL:https://newhaven-ct.legistar.com/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:★ Board of Alders
+DTSTART;TZID=America/New_York:20260706T190000
+DTEND;TZID=America/New_York:20260706T210000
+DTSTAMP:20260704T120415Z
+UID:9a5ada1d7e6e64e2@newhaven-ct.legistar.com
+DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
+LOCATION:Board of Alders Chamber  - 165 Church Street\, New Haven - 2nd Fl
+ oor
+URL:https://newhaven-ct.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:City Services and Environmental Policy
 DTSTART;TZID=America/New_York:20260702T180000
 DTEND;TZID=America/New_York:20260702T200000
-DTSTAMP:20260703T125444Z
+DTSTAMP:20260704T120415Z
 UID:e961eff38b0618e3@newhaven-ct.legistar.com
 DESCRIPTION:Source: https://newhaven-ct.legistar.com/Calendar.aspx
 LOCATION:Aldermanic Chamber
